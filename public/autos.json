@@ -1,428 +1,6 @@
-{
+[
 
-  "marcas":[
-    {
-      "id": 1,
-       "marca": "alfa romeo",
-       "img": "https://static.retail.autofact.cl/logos_marcas/alfa_romeo.jpg"
-    },
-    {
-      "id": 2,
-       "marca": "audi",
-       "img": "https://static.retail.autofact.cl/logos_marcas/audi.jpg"
-    },
-    {
-      "id": 3,
-       "marca": "baic",
-       "img": "https://static.retail.autofact.cl/logos_marcas/baic.jpg"
-    },
-    {
-      "id": 4,
-       "marca": "bmw",
-       "img": "https://static.retail.autofact.cl/logos_marcas/bmw.jpg"
-    },
-    {
-      "id": 5,
-       "marca": "brillance",
-       "img": "https://static.retail.autofact.cl/logos_marcas/baic.jpg"
-    },
-    {
-      "id": 6,
-       "marca": "changan",
-       "img": "https://static.retail.autofact.cl/logos_marcas/changan.jpg"
-    },
-    {
-      "id": 7,
-       "marca": "chery",
-       "img": "https://static.retail.autofact.cl/logos_marcas/chery.jpg"
-    },
-    {
-      "id": 8,
-       "marca": "chevrolet",
-       "img": "https://static.retail.autofact.cl/logos_marcas/chevrolet.jpg"
-    },
-    {
-      "id": 9,
-       "marca": "chrysler",
-       "img": "https://static.retail.autofact.cl/logos_marcas/chrysler.jpg"
-    },
-    {
-      "id": 10,
-       "marca": "citroen",
-       "img": "https://static.retail.autofact.cl/logos_marcas/citroen.jpg"
-    },
-    {
-      "id": 11,
-       "marca": "dfm",
-       "img": "https://static.retail.autofact.cl/logos_marcas/dfm.jpg"
-    },
-    {
-      "id": 12,
-       "marca": "dfsk",
-       "img": "https://static.retail.autofact.cl/logos_marcas/dfsk.jpg"
-    },
-    {
-      "id": 13,
-       "marca": "dodge",
-       "img": "https://static.retail.autofact.cl/logos_marcas/dodge.jpg"
-    },
-    {
-      "id": 14,
-       "marca": "faw",
-       "img": "https://static.retail.autofact.cl/logos_marcas/faw.jpg"
-    },
-    {
-      "id": 15,
-       "marca": "ferrari",
-       "img": "https://static.retail.autofact.cl/logos_marcas/ferrari.jpg"
-    },
-    {
-      "id": 16,
-       "marca": "fiat",
-       "img": "https://static.retail.autofact.cl/logos_marcas/fiat.jpg"
-    },
-    {
-      "id": 17,
-       "marca": "ford",
-       "img": "https://static.retail.autofact.cl/logos_marcas/ford.jpg"
-    },
-    {
-      "id": 18,
-       "marca": "foton",
-       "img": "https://static.retail.autofact.cl/logos_marcas/foton.jpg"
-    },
-    {
-      "id": 19,
-       "marca": "gac gonow",
-       "img": "https://static.retail.autofact.cl/logos_marcas/gac_gonow.jpg"
-    },
-    {
-      "id": 20,
-       "marca": "geely",
-       "img": "https://static.retail.autofact.cl/logos_marcas/geely.jpg"
-    },
-    {
-      "id": 21,
-       "marca": "great wall",
-       "img": "https://static.retail.autofact.cl/logos_marcas/great_wall.jpg"
-    },
-    {
-      "id": 22,
-       "marca": "honda",
-       "img": "https://static.retail.autofact.cl/logos_marcas/honda.jpg"
-    },
-    {
-      "id": 23,
-       "marca": "hyundai",
-       "img": "https://static.retail.autofact.cl/logos_marcas/hyundai.jpg"
-    },
-    {
-      "id": 24,
-       "marca": "iveco",
-       "img": "https://static.retail.autofact.cl/logos_marcas/iveco.jpg"
-    },
-    {
-      "id": 25,
-       "marca": "jac",
-       "img": "https://static.retail.autofact.cl/logos_marcas/jac.jpg"
-    },
-    {
-      "id": 26,
-       "marca": "jaguar",
-       "img": "https://static.retail.autofact.cl/logos_marcas/jaguar.jpg"
-    },
-    {
-      "id": 27,
-       "marca": "jeep",
-       "img": "https://static.retail.autofact.cl/logos_marcas/jeep.jpg"
-    },
-    {
-      "id": 28,
-       "marca": "kia",
-       "img": "https://static.retail.autofact.cl/logos_marcas/kia.jpg"
-    },
-    {
-      "id": 29,
-       "marca": "land rover",
-       "img": "https://static.retail.autofact.cl/logos_marcas/land_rover.jpg"
-    },
-    {
-      "id": 30,
-       "marca": "lifan",
-       "img": "https://static.retail.autofact.cl/logos_marcas/lifan.jpg"
-    },
-    {
-      "id": 31,
-       "marca": "lexus",
-       "img": "https://static.retail.autofact.cl/logos_marcas/lexus.jpg"
-    },
-    {
-      "id": 32,
-       "marca": "mahindra",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mahindra.jpg"
-    },
-    {
-      "id": 33,
-       "marca": "mazda",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mazda.jpg"
-    },
-    {
-      "id": 34,
-       "marca": "mercedes benz",
-       "img": "https://static.retail.autofact.cl/logos_marcas/merdeces_benz.jpg"
-    },
-    {
-      "id": 35,
-       "marca": "mg",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mg.jpg"
-    },
-    {
-      "id": 36,
-       "marca": "mini",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mini.jpg"
-    },
-    {
-      "id": 37,
-       "marca": "mazda",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mazda.jpg"
-    },
-    {
-      "id": 38,
-       "marca": "mitsubishi",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mitsubishi.jpg"
-    },
-    {
-      "id": 39,
-       "marca": "nissan",
-       "img": "https://static.retail.autofact.cl/logos_marcas/nissan.jpg"
-    },
-    {
-      "id": 40,
-       "marca": "opel",
-       "img": "https://static.retail.autofact.cl/logos_marcas/opel.jpg"
-    },
-    {
-      "id": 41,
-       "marca": "peugeot",
-       "img": "https://static.retail.autofact.cl/logos_marcas/peugeot.jpg"
-    },
-    {
-      "id": 42,
-       "marca": "porsche",
-       "img": "https://static.retail.autofact.cl/logos_marcas/porsche.jpg"
-    },
-    {
-      "id": 43,
-       "marca": "renault",
-       "img": "https://static.retail.autofact.cl/logos_marcas/renault.jpg"
-    },
-    {
-      "id": 44,
-       "marca": "skoda",
-       "img": "https://static.retail.autofact.cl/logos_marcas/skoda.jpg"
-    },
-    {
-      "id": 45,
-       "marca": "ssangyong",
-       "img": "https://static.retail.autofact.cl/logos_marcas/ssangyong.jpg"
-    },
-    {
-      "id": 46,
-       "marca": "subaru",
-       "img": "https://static.retail.autofact.cl/logos_marcas/subaru.jpg"
-    },
-    {
-      "id": 47,
-       "marca": "suzuki",
-       "img": "https://static.retail.autofact.cl/logos_marcas/suzuki.jpg"
-    },
-    {
-      "id": 48,
-       "marca": "toyota",
-       "img": "https://static.retail.autofact.cl/logos_marcas/toyota.jpg"
-    },
-    {
-      "id": 49,
-       "marca": "volkswagen",
-       "img": "https://static.retail.autofact.cl/logos_marcas/volkswagen.jpg"
-    },
-    {
-      "id": 50,
-       "marca": "volvo",
-       "img": "https://static.retail.autofact.cl/logos_marcas/volvo.jpg"
-    },
-    {
-      "id": 51,
-       "marca": "aston martin",
-       "img": "https://static.retail.autofact.cl/logos_marcas/aston_martin.jpg"
-    },
-    {
-      "id": 52,
-       "marca": "seat",
-       "img": "https://static.retail.autofact.cl/logos_marcas/seat.jpg"
-    },
-    {
-      "id": 53,
-       "marca": "infiniti",
-       "img": "https://static.retail.autofact.cl/logos_marcas/infiniti.jpg"
-    },
-    {
-      "id": 54,
-       "marca": "mclaren",
-       "img": "https://static.retail.autofact.cl/logos_marcas/mclaren.jpg"
-    },
-    {
-      "id": 55,
-       "marca": "rolls royce",
-       "img": "https://static.retail.autofact.cl/logos_marcas/rolls_royce.jpg"
-    },
-    {
-      "id": 56,
-       "marca": "lamborghini",
-       "img": "https://static.retail.autofact.cl/logos_marcas/lamborghini.jpg"
-    },
-    {
-      "id": 57,
-       "marca": "renault samsung",
-       "img": "https://static.retail.autofact.cl/logos_marcas/renault_samsung.jpg"
-    },
-    {
-      "id": 58,
-       "marca": "daewoo",
-       "img": "https://static.retail.autofact.cl/logos_marcas/daewoo.jpg"
-    },
-    {
-      "id": 59,
-       "marca": "lada",
-       "img": "https://static.retail.autofact.cl/logos_marcas/lada.jpg"
-    },
-    {
-      "id": 60,
-       "marca": "hafei",
-       "img": "https://static.retail.autofact.cl/logos_marcas/hafei.jpg"
-    },
-    {
-      "id": 61,
-       "marca": "hama",
-       "img": "https://static.retail.autofact.cl/logos_marcas/hama.jpg"
-    },
-    {
-      "id": 62,
-       "marca": "datsun",
-       "img": "https://static.retail.autofact.cl/logos_marcas/datsun.jpg"
-    },
-
-    {
-      "id": 63,
-       "marca": "zna",
-       "img": "https://static.retail.autofact.cl/logos_marcas/zna.jpg"
-    },
-
-    {
-      "id": 64,
-       "marca": "jmc",
-       "img": "https://static.retail.autofact.cl/logos_marcas/jmc.jpg"
-    },
-
-    {
-      "id": 65,
-       "marca": "austin",
-       "img": "https://static.retail.autofact.cl/logos_marcas/austin.jpg"
-    },
-
-    {
-      "id": 66,
-       "marca": "rover",
-       "img": "https://static.retail.autofact.cl/logos_marcas/rover.jpg"
-    },
-    {
-      "id": 67,
-       "marca": "proton",
-       "img": "https://static.retail.autofact.cl/logos_marcas/proton.jpg"
-    },
-    {
-      "id": 68,
-       "marca": "asia motors",
-       "img": "https://static.retail.autofact.cl/logos_marcas/asia_motors.jpg"
-    },
-    {
-      "id": 69,
-       "marca": "triumph",
-       "img": "https://static.retail.autofact.cl/logos_marcas/triumph.jpg"
-    },
-    {
-      "id": 70,
-       "marca": "pontiac",
-       "img": "https://static.retail.autofact.cl/logos_marcas/pontiac.jpg"
-    },
-    {
-      "id": 71,
-       "marca": "oldsmobile",
-       "img": "https://static.retail.autofact.cl/logos_marcas/oldsmobile.jpg"
-    },
-
-    {
-      "id": 72,
-       "marca": "autorrad",
-       "img": "https://static.retail.autofact.cl/logos_marcas/autorrad.jpg"
-    },
-
-    {
-      "id": 73,
-       "marca": "isuzu",
-       "img": "https://static.retail.autofact.cl/logos_marcas/isuzu.jpg"
-    },
-
-    {
-      "id": 74,
-       "marca": "zotye",
-       "img": "https://static.retail.autofact.cl/logos_marcas/zoyte.jpg"
-    },
-    {
-      "id": 75,
-       "marca": "saab",
-       "img": "https://static.retail.autofact.cl/logos_marcas/saab.jpg"
-    },
-    {
-      "id": 76,
-       "marca": "hummer",
-       "img": "https://static.retail.autofact.cl/logos_marcas/hummer.jpg"
-    },
-    {
-      "id": 77,
-       "marca": "cadillac",
-       "img": "https://static.retail.autofact.cl/logos_marcas/cadillac.jpg"
-    },
-    {
-      "id": 78,
-       "marca": "changhe",
-       "img": "https://static.retail.autofact.cl/logos_marcas/changhe.jpg"
-    },
-    {
-      "id": 79,
-       "marca": "piaggio",
-       "img": "https://static.retail.autofact.cl/logos_marcas/piaggio.jpg"
-    },
-    {
-      "id": 80,
-       "marca": "gmc",
-       "img": "https://static.retail.autofact.cl/logos_marcas/gmc.jpg"
-    },
-    {
-      "id": 81,
-       "marca": "jinbei",
-       "img": "https://static.retail.autofact.cl/logos_marcas/jinbei.jpg"
-    },
-    {
-      "id": 82,
-       "marca": "zastava",
-       "img": "https://static.retail.autofact.cl/logos_marcas/zastava.jpg"
-    }
-  
-  ],
-
-  "publicaciones": [
-    { "id": 1,
+    { "id": "1",
       "titulo": "Kia Rio 5 como nuevo",
       "marca":"kia",
       "modelo": "rio 5",
@@ -435,10 +13,9 @@
       "estado": "usado",
       "detalles": "Vehiculo excelnte estado, nunca chocado. Mantenciones al dia en la consecionaria",
       "imagen":"https://chileautos.pxcrush.net/car/dealer/3csu1l7cmn4f0uhfbeyr5xa3a.jpg?pxc_method=limitfill&pxc_bgtype=self&pxc_size=900%2c600"
-
     },
     { 
-      "id": 2,
+      "id": "2",
       "titulo": "Espectacular Nissan Navara 2012",
       "marca":"nissan",
       "modelo": "navara",
@@ -452,7 +29,7 @@
       "detalles": "camioneta como nueva, no usada para trabajos pesados.",
       "imagen":"https://chileautos.pxcrush.net/chileautos/cars/private/b67e8a57kpaenx2lmm8m0d6ok.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 3,
+    { "id":"3",
       "titulo": "Hyundai I20 2018",
       "marca":"hyundai",
       "modelo": "i20",
@@ -466,7 +43,7 @@
       "detalles": "Mantenciones al dia, usado en ciudad. No viajes largos",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/e6ysa8bcx1j2mdu42669cds55.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 4,
+    { "id":"4",
       "titulo": "Ford Edge 2020",
       "marca":"ford",
       "modelo": "edge",
@@ -480,7 +57,7 @@
       "detalles": "Mantenciones al dia en concesionaria, uso fin de semanas.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/5711uiofzl7mjai4eooi206lb.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 5,
+    { "id": "5",
       "titulo": "Subaru Forester 2019",
       "marca":"subaru",
       "modelo": "forester",
@@ -494,7 +71,7 @@
       "detalles": "Mantenciones al dia en concesionaria.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/1dgl2du6xcyrf0puyx068bfpd.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 6,
+    { "id": "6",
       "titulo": "Volkswagen gol 2023",
       "marca":"volkswagen",
       "modelo": "gol",
@@ -508,7 +85,7 @@
       "detalles": "Puedes llevar a credito.",
       "imagen":"https://chileautos.pxcrush.net/car/dealer/6wi29y65ti5tmud7f5ntgthgt.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 7,
+    { "id": "7",
       "titulo": "Peugeot 3008",
       "marca":"peugeot",
       "modelo": "blueHDI",
@@ -522,7 +99,7 @@
       "detalles": "se vende por renovacion, sin detallles.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/9nryd24ssby5ojmmopx6no047.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": 8,
+    { "id": "8",
       "titulo": "Opel Crossland",
       "marca":"opel",
       "modelo": "crossland",
@@ -536,8 +113,8 @@
       "detalles": "Puedes llevar a credito.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/248r671dbetkuiarbhgvx9vmy.jpg?pxc_method=limitfill&pxc_bgtype=self&pxc_size=900%2c600"
     }
-  ]
-}
+  
+]
 
 
 

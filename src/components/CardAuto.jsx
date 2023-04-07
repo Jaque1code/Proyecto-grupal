@@ -1,19 +1,37 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import { useNavigate } from 'react-router-dom';
+import "../style.css"
 
-function CardAuto({autos}) {
+
+function CardAuto({auto}) {
+
+     const navigate = useNavigate();
+
+
+     const verDetalle = () => {
+          navigate(`/detalle/${auto.id}`)
+     }
+   
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+   <div className='cardAutos'>
+    <Card className='card d-flex align-items-center justify-content-center' style={{ width: '18rem', marginTop:'6em' }}>
+      <Card.Img variant="top" src={auto.imagen} />
       <Card.Body>
-        <Card.Title>Card Title</Card.Title>
+        <Card.Title>{auto.titulo}</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+         <ul>
+            <li>Año:{auto.ano}</li>
+            <li>Kilometraje:{auto.kilometraje}</li>
+            <li>Dueños:{auto.duenos}</li>
+            <li>Transmision:{auto.transmision}</li>
+            <li>Preciso:{auto.precio}</li>
+         </ul>
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+        <Button className='btnDetalle' variant="primary" onClick={()=>verDetalle()}>Detalle</Button>
+       </Card.Body>
+     </Card>
+    </div>
   );
 }
 

@@ -1,41 +1,35 @@
 import Button from 'react-bootstrap/Button';
 import { NavLink } from 'react-router-dom'
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+import logo from '../img/logo.png'
+import{ Container, Nav, Navbar, Form} from 'react-bootstrap';
+
+
 
 
 
 function Barra() {
   return (
-    <Navbar bg="light" expand="lg">
-      <Container>
-        <Navbar.Brand href="#home">
-            <img src="https://static.vecteezy.com/system/resources/previews/000/623/239/original/auto-car-logo-template-vector-icon.jpg" alt="logo" style={{height:'40px'}}/> 
-        </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav " className='d-flex justify-content-end'>
-          <Nav >
-           
-               <NavLink href="#Inicio"className="mb-2 mt-1" >
-                  <p className='me-5 ' >Inicio</p> 
-               </NavLink> 
-           
+    <Navbar className='barra' expand="lg">
+      <Container fluid>
+        <Navbar.Brand href="/home"><img src={logo} alt="logo" style={{height:'70px'}}/></Navbar.Brand>
+        <Navbar.Toggle aria-controls="navbarScroll" />
+        <Navbar.Collapse id="navbarScroll">
+          <Nav 
+             className="me-auto my-2 my-lg-0"
+             style={{ maxHeight:'100px' }}
+             navbarScroll
+           >
 
-         
-               <NavLink >
-               <Button variant="primary" className="me-10">Iniciar</Button>{' '} 
-               </NavLink> 
-             
-    
-               <NavLink >
-               <Button variant="primary"  >Registrar</Button>{' '} 
-               </NavLink> 
-          
-                   
-
-
+             <NavLink className='menu' to="/Home">Inicio</NavLink>   
+             <NavLink className='menu' to="/publicaciones">Vehiculos Publicados</NavLink>
+             <NavLink className='menu' to='/nuevos'>Nuevos</NavLink>
+             <NavLink className='menu' to='/usados'>Usados</NavLink>
           </Nav>
+
+           <Form className="d-flex">
+              <NavLink to='/ingresar'><Button className="btnBarra">Ingresar</Button></NavLink>     
+              <NavLink to='/registrar'><Button className="btnBarra">Registar</Button></NavLink>  
+           </Form>
         </Navbar.Collapse>
       </Container>
     </Navbar>

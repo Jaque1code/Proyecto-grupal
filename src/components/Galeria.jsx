@@ -11,7 +11,7 @@ const Galeria = () => {
      <Row>
         {
              autos.map((auto) => {
-                 return <Col><CardAuto auto={auto}></CardAuto> </Col>
+                 return <Col key={auto.id} ><CardAuto auto={auto}></CardAuto> </Col>
             })
         }
      </Row>
