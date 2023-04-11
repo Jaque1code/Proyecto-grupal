@@ -42,6 +42,7 @@ function App() {
              <Route path='/ingresar' element={<Ingresar></Ingresar>}></Route>
              <Route path='/publicaciones'element={<Publicaciones>  </Publicaciones>}></Route>
              <Route path='/detalle/:id' element={<Detalle></Detalle>}></Route>
+             <Route path='/*' element={<Home></Home>}></Route>
           </Routes>
           <Footer></Footer>
         </BrowserRouter>
