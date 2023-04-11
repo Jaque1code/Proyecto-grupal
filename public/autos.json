@@ -1,6 +1,6 @@
 [
 
-    { "id": "1",
+    { "id": 1,
       "titulo": "Kia Rio 5 como nuevo",
       "marca":"kia",
       "modelo": "rio 5",
@@ -15,7 +15,7 @@
       "imagen":"https://chileautos.pxcrush.net/car/dealer/3csu1l7cmn4f0uhfbeyr5xa3a.jpg?pxc_method=limitfill&pxc_bgtype=self&pxc_size=900%2c600"
     },
     { 
-      "id": "2",
+      "id": 2,
       "titulo": "Espectacular Nissan Navara 2012",
       "marca":"nissan",
       "modelo": "navara",
@@ -29,7 +29,7 @@
       "detalles": "camioneta como nueva, no usada para trabajos pesados.",
       "imagen":"https://chileautos.pxcrush.net/chileautos/cars/private/b67e8a57kpaenx2lmm8m0d6ok.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id":"3",
+    { "id": 3,
       "titulo": "Hyundai I20 2018",
       "marca":"hyundai",
       "modelo": "i20",
@@ -43,7 +43,7 @@
       "detalles": "Mantenciones al dia, usado en ciudad. No viajes largos",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/e6ysa8bcx1j2mdu42669cds55.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id":"4",
+    { "id": 4,
       "titulo": "Ford Edge 2020",
       "marca":"ford",
       "modelo": "edge",
@@ -57,7 +57,7 @@
       "detalles": "Mantenciones al dia en concesionaria, uso fin de semanas.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/5711uiofzl7mjai4eooi206lb.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": "5",
+    { "id": 5,
       "titulo": "Subaru Forester 2019",
       "marca":"subaru",
       "modelo": "forester",
@@ -71,7 +71,7 @@
       "detalles": "Mantenciones al dia en concesionaria.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/1dgl2du6xcyrf0puyx068bfpd.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": "6",
+    { "id": 6,
       "titulo": "Volkswagen gol 2023",
       "marca":"volkswagen",
       "modelo": "gol",
@@ -85,7 +85,7 @@
       "detalles": "Puedes llevar a credito.",
       "imagen":"https://chileautos.pxcrush.net/car/dealer/6wi29y65ti5tmud7f5ntgthgt.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": "7",
+    { "id": 7,
       "titulo": "Peugeot 3008",
       "marca":"peugeot",
       "modelo": "blueHDI",
@@ -99,7 +99,7 @@
       "detalles": "se vende por renovacion, sin detallles.",
       "imagen":"https://chileautos.pxcrush.net/cars/dealer/9nryd24ssby5ojmmopx6no047.jpg?pxc_method=fit&pxc_size=1795%2c1195"
     },
-    { "id": "8",
+    { "id": 8,
       "titulo": "Opel Crossland",
       "marca":"opel",
       "modelo": "crossland",

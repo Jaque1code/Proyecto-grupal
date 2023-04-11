@@ -11,7 +11,7 @@ const Detalle = () => {
   const { autos } = useContext(ContextoGlobal);  
 
 
-  const idxAuto = autos.findIndex((a)=> a.id === id);
+  const idxAuto = autos.findIndex((a)=> a.id === Number(id));
 
 
   
